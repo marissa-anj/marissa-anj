@@ -8,7 +8,7 @@
 
 
 ---
-[![website](https://img.icons8.com/ios-filled/50/000000/internet.png)][1]
+[![website](https://img.icons8.com/ios-filled/50/FFFFFF/globe.png)][1]
 [![discord](https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png)][2]
 [![linkedin](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)][3]
 ---
