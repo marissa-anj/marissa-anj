@@ -1,4 +1,4 @@
-## Hello 👋, I'm Marissa
+## Hello 👋, I'm Marissa Mae
 
 ## **About**
 - 🖥️  See my portfolio on [my website](https://marissa4mae.netlify.app/)
