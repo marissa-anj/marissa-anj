@@ -5,7 +5,7 @@
 - 🌱 I am a recent graduate of an Honours Computer Science Bachelor Degree @ Wilfrid Laurier University
 - 👀 Specializing in Big Data Systems, I am especially interested in exploring AWS and Tensorflow on a deeper level
 - 🤝 I'm open to collaborating on hackathons, interesting projects, and internships!
-- ⚡ I have the most experience in Python, SQL, and JavaScript. I have created and am continuously learning C/C++, Java, and PHP
+- ⚡ I have the most experience in Python, SQL, and JavaScript. I have created projects in and continuously study C/C++, Java, and PHP
 
 ## **Socials**
 [![website](https://img.icons8.com/ios-filled/50/FFFFFF/globe.png)][1]
